@@ -1,12 +1,12 @@
 .searchReminder {
-    width:400px;
+    width:410px;
     border: 1.5px solid rgb(242, 242, 242);
     border-radius: 100px;
     height:65px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left:30px;
+    padding-left:14px;
     padding-right:5px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
@@ -58,7 +58,7 @@
 }
 
 .rentalDivH {
-    animation: mymove 3s;
+    animation: mymove 6s;
     border-radius: 20px;
     display: flex;
     justify-content: start;
